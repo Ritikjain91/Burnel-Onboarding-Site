@@ -1,0 +1,28 @@
+.carousel-control-prev,
+.carousel-control-next {
+    color: #ff0000; 
+}
+
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    filter: invert(100%); 
+}
+
+.custom-accordion,
+.custom-accordion .accordion-item,
+.custom-accordion .accordion-header,
+.custom-accordion .accordion-button:not(.collapsed),
+.custom-accordion .accordion-button.collapsed,
+.custom-accordion .accordion-body {
+  background: none !important;
+  margin-top: 1em;
+  border-top: none !important;
+  border-right: none !important;
+  border-bottom: none !important;
+  border-left: 2px solid transparent !important;
+
+
+}
+
+

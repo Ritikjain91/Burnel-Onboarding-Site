@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.00393503.css",
+    "main.js": "/static/js/main.affb3e51.js",
+    "static/media/Girl.png": "/static/media/Girl.25d3fa006c34270dac9e.png",
+    "static/media/Union.png": "/static/media/Union.179f6e9396962d4414dc.png",
+    "static/media/WhiteBackground.jpg": "/static/media/WhiteBackground.5cad408ac9e750680173.jpg",
+    "index.html": "/index.html",
+    "main.00393503.css.map": "/static/css/main.00393503.css.map",
+    "main.affb3e51.js.map": "/static/js/main.affb3e51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00393503.css",
+    "static/js/main.affb3e51.js"
+  ]
+}
